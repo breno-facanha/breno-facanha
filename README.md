@@ -25,4 +25,4 @@
  
 </div>
   
-   ![Snake animation](https://github.com/breno-facanha/breno-facanha/blob/output/github-contribution-grid-snake.svg)
+  
