@@ -3,7 +3,7 @@
 
 - 💻 Hoje trabalho como técnico de suporte
 - 👨‍🎓 Graduado em Analise e Desenvolvimento de Sistemas
-- 📚 Estudando JavaScript, NodeJS, Html e Css
+- 📚 Estudando JavaScript, NodeJS, ReactJS, Html e Css
 
 <div align="center">
   <a href="https://github.com/breno-facanha">
