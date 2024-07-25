@@ -1,7 +1,7 @@
 ## Olá ! Eu sou Breno Façanha . Estudante e apaixonado por programação !
 
 
-- 💻 Hoje trabalho como técnico de suporte
+- 💻 Hoje trabalho como Analista de Suporte
 - 👨‍🎓 Graduado em Analise e Desenvolvimento de Sistemas
 - 📚 Estudando JavaScript, NodeJS, ReactJS, Html e Css
 
