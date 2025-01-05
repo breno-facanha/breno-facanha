@@ -5,7 +5,7 @@
 - 👨‍🎓 Graduado em Analise e Desenvolvimento de Sistemas
 - 📚 Estudando JavaScript, NodeJS, ReactJS, Html e Css
 
-<div align="center" style="display: flex; align-items: center; justify-content: center;">
+<div style="display: flex; align-items: center; justify-content: center;">
   <img height="180px" width="400px" src="https://github-readme-stats.vercel.app/api?username=breno-facanha&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="168px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno-facanha&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
