@@ -6,7 +6,7 @@
 - 📚 Estudando JavaScript, NodeJS, ReactJS, Html e Css
 
 <div style="display: flex; align-items: center; justify-content: center;">
-  <img height="168px" width="399px" src="https://github-readme-stats.vercel.app/api?username=breno-facanha&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="168px" width="395px" src="https://github-readme-stats.vercel.app/api?username=breno-facanha&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="168px" width="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno-facanha&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
  <img align="right" alt="Rafa-pic" height="180" style="border-radius:50px" src="https://user-images.githubusercontent.com/61479511/147576958-5607e7ba-f6d3-4842-997d-45954833c7a5.png" />
