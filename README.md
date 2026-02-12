@@ -1,7 +1,7 @@
-## Olá ! Eu sou Breno Façanha . Estudante e apaixonado por programação !
+## Olá ! Eu sou Breno Façanha . Desenvolvedor Full Stack Júnior !
 
 
-- 💻 Hoje trabalho como Analista de Suporte
+- 💻 Hoje trabalho como Analista de Suporte e Professor Subsituto de Node e React
 - 👨‍🎓 Graduado em Analise e Desenvolvimento de Sistemas
 - 📚 Estudando JavaScript, NodeJS, ReactJS, Html e Css
 
